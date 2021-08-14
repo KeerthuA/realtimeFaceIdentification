@@ -40,3 +40,9 @@ body
     line-height: 3;
     bottom: 0;
 }
+canvas{
+    border:5px solid grey;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 150px;
+}
